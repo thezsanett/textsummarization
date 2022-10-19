@@ -1,6 +1,7 @@
 # Extractive text summarization
 
 Thesis topic at ELTE for student Zsanett A.
+
 Supervisor: Dr. Tsegaye M. T.
 
 ## Thesis topic description
